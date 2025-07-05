@@ -41,3 +41,5 @@ Tableau:  Data Analysis and Data Visualization.
 5) Highlighting high attrition in R&D (56%) and Sales (39%) focused leadership attention on stabilizing core teams critical to product and revenue.
 
 6) Noticing low or no equity among most employees, including seniors informed discussions on long-term incentive plans to improve retention of key talent.
+
+## Dashboard Link: https://public.tableau.com/views/EmployeeAttritionAnalysis_17517225271810/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
